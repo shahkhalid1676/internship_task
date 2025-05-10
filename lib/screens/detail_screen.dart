@@ -30,4 +30,3 @@ class DetailScreen extends StatelessWidget {
     );
   }
 }
-git init
