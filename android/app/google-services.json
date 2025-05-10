@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "738324827621",
-    "project_id": "task-e678f",
-    "storage_bucket": "task-e678f.firebasestorage.app"
+    "project_number": ".............",
+    "project_id": "................",
+    "storage_bucket": "................."
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:738324827621:android:85e243650627f622a7730c",
+        "mobilesdk_app_id": "..................",
         "android_client_info": {
           "package_name": "com.example.task"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBEomEJKEy2Mf9-I1visTxG_tW-bKeOOAk"
+          "current_key": "............................"
         }
       ],
       "services": {
@@ -26,7 +26,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:738324827621:android:8b2b48880fdf1d9ca7730c",
+        "mobilesdk_app_id": "...............................",
         "android_client_info": {
           "package_name": "com.example.untitled"
         }
@@ -34,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBEomEJKEy2Mf9-I1visTxG_tW-bKeOOAk"
+          "current_key": "............................."
         }
       ],
       "services": {
